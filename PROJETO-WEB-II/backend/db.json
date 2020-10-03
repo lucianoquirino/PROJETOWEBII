@@ -1,0 +1,12 @@
+{
+    "entrega":[{
+        "id": 1,
+        "destinatario":"Luciano Quirino",
+        "endereco": "Rua Raimundo Xavier da Silva, 284, Capoeira, Jaguaruana-CE"
+
+    },{
+        "id": 2,
+        "destinatario":"Diana Freitas",
+        "endereco": "Rua Rosa Carneiro de Alencar, 559, Tabuleiro, Jaguaruana-CE"
+    }]
+}
